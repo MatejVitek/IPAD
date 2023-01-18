@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except the two relevant subrepos and this gitignore
+!/.gitignore
+!/IPAD/
+!/IPAD/**
+!/LeGR/
+!/LeGR/**
+
+# Re-ignore temporary ..git folders
+..git
